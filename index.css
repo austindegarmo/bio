@@ -1,0 +1,20 @@
+body {
+	position: center;
+	background-color: green;
+	text-align: center;
+
+}
+
+.masthead {
+
+}
+
+.container {
+	position: center;
+	background-color: blue;
+}
+
+#first-paragraph {
+	color: red;
+	font-size: 50px;
+}
